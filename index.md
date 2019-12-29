@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.com/jaayarea/jaay-area/blob/master/tips.PNG)
 
 ### Large image
 
