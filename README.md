@@ -7,4 +7,4 @@ Welcome to my page on the Internet. Here we can get creative and collaborate on 
 
 ### Small image
 
-![Octocat](https://raw.githubusercontent.com/jaayarea/jaay-area/master/tips.PNG)
+![Octocat](
