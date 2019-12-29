@@ -1,4 +1,4 @@
-# jaay-area
+# Jaay-Area
 Webpage Projects
 
 Hello Triple A's  12/28/2019
